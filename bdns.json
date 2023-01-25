@@ -163,7 +163,7 @@
     "dev.epi": {
         "anchoringServices": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
-            "https://epipoc.msd-bcn.net",
+            "https://dev-epi.merck.com",
             "https://dev.epi.novartis.com",
             "https://intepitest.epi-jnj.com",
             "https://epidev.takeda.com",
@@ -171,7 +171,7 @@
         ],
         "notifications": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
-            "https://epipoc.msd-bcn.net",
+            "https://dev-epi.merck.com",
             "https://dev.epi.novartis.com",
             "https://intepitest.epi-jnj.com"
         ]
@@ -200,13 +200,13 @@
     },
     "dev.epi.msd": {
         "anchoringServices": [
-            "https://epipoc.msd-bcn.net"
+            "https://dev-epi.merck.com"
         ],
         "brickStorages": [
-            "https://epipoc.msd-bcn.net"
+            "https://dev-epi.merck.com"
         ],
         "notifications": [
-            "https://epipoc.msd-bcn.net"
+            "https://dev-epi.merck.com"
         ]
     },
     "dev.epi.nvs": {
