@@ -1,7 +1,7 @@
 {
   "preqa.epi": {
     "anchoringServices": [
-       {
+      {
         "url": "https://pqadmin.pladev.com",
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
@@ -11,10 +11,10 @@
         "url": "https://pqnah2.pladev.com",
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }     
+        }
       }
     ],
-    "brickStorages": [      
+    "brickStorages": [
     ]
   },
   "preqa.epi.admin": {
@@ -23,16 +23,16 @@
         "url": "https://pqadmin.pladev.com",
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }  
+        }
       }
     ],
     "brickStorages": [
-       {
+      {
         "url": "https://pqadmin.pladev.com",
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }    
-       }
+        }
+      }
     ]
   },
   "preqa.epi.nah2": {
@@ -50,10 +50,9 @@
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
         }
-      }      
+      }
     ]
   },
-  ,
   "preqa.epi.msd": {
     "anchoringServices": [
       {
@@ -69,7 +68,7 @@
         "headers": {
           "X-api-key": ""
         }
-      }      
+      }
     ]
   },
   "demo.epi": {
@@ -537,7 +536,7 @@
     "brickStorages": [
       "https://pqmah18.pla.health"
     ]
-  },  
+  },
   "localhost.epi": {
     "anchoringServices": [
       "http://localhost:8181",
