@@ -35,10 +35,10 @@
       }
     ]
   },
-  "preqa.epi.test": {
+  "preqa.epi.test2": {
     "anchoringServices": [
       {
-        "url": "https://pqtest.pladev.com",
+        "url": "https://pqtest2.pladev.com",
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
         }
@@ -46,7 +46,7 @@
     ],
     "brickStorages": [
       {
-        "url": "https://pqtest.pladev.com",
+        "url": "https://pqtest2.pladev.com",
         "headers": {
           "X-api-key": "AIzaSyDaGmWKa4JsXZ"
         }
