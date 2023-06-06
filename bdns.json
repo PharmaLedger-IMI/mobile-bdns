@@ -53,14 +53,6 @@
       }
     ]
   },
-  "preqa.epi.tk": {
-    "anchoringServices": [
-      "url": "https://pqtk.pladev.com"
-    ],
-    "brickStorages": [
-      "url": "https://pqtk.pladev.com"
-    ],
-  },
   "preqa.epi.nah2": {
     "anchoringServices": [
       {
