@@ -1,94 +1,19 @@
 {
   "preqa.epi": {
     "anchoringServices": [
-      {
-        "url": "https://pqadmin.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      },
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
+      "https://red1.pladev.com"
     ],
     "brickStorages": [
     ]
   },
-  "preqa.epi.admin": {
+  "preqa.epi.red1": {
     "anchoringServices": [
-      {
-        "url": "https://pqadmin.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
+      "https://red1.pladev.com"
     ],
     "brickStorages": [
-      {
-        "url": "https://pqadmin.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
+      "https://red1.pladev.com"
     ]
-  },
-  "preqa.epi.test2": {
-    "anchoringServices": [
-      {
-        "url": "https://pqtest2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ],
-    "brickStorages": [
-      {
-        "url": "https://pqtest2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ]
-  },
-  "preqa.epi.nah2": {
-    "anchoringServices": [
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ],
-    "brickStorages": [
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ]
-  },
-  "preqa.epi.msd": {
-    "anchoringServices": [
-      {
-        "url": "https://pqmsd.pladev.com",
-        "headers": {
-          "X-api-key": "ocheiecuspatii"
-        }
-      }
-    ],
-    "brickStorages": [
-      {
-        "url": "https://pqmsd.pladev.com",
-        "headers": {
-          "X-api-key": ""
-        }
-      }
-    ]
-  },
+  }
   "demo.epi": {
     "anchoringServices": [
       "https://bayer.pla.health",
