@@ -1,17 +1,44 @@
 {
   "preqa.epi": {
     "anchoringServices": [
-      "https://red1.pladev.com"
+      "https://red1.pladevs.com",
+      "https://red2.pladevs.com",
+      "https://legacy.pladevs.com",
+      "https://blue.pladevs.com"
     ],
     "brickStorages": [
     ]
   },
   "preqa.epi.red1": {
     "anchoringServices": [
-      "https://red1.pladev.com"
+      "https://red1.pladevs.com"
     ],
     "brickStorages": [
-      "https://red1.pladev.com"
+      "https://red1.pladevs.com"
+    ]
+  },
+  "preqa.epi.red2": {
+    "anchoringServices": [
+      "https://red2.pladevs.com"
+    ],
+    "brickStorages": [
+      "https://red2.pladevs.com"
+    ]
+  },
+  "preqa.epi.legacy": {
+    "anchoringServices": [
+      "https://legacy.pladevs.com"
+    ],
+    "brickStorages": [
+      "https://legacy.pladevs.com"
+    ]
+  },
+  "preqa.epi.blue": {
+    "anchoringServices": [
+      "https://blue.pladevs.com"
+    ],
+    "brickStorages": [
+      "https://blue.pladevs.com"
     ]
   },
   "demo.epi": {
