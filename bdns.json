@@ -1,11 +1,10 @@
 {
   "preqa.epi": {
     "anchoringServices": [
-      "https://pq1.platest.eu",
-      "https://pq2.platest.eu",
-      "https://pq3.platest.eu",
-      "https://pq4.platest.eu",
-      "https://pq5.platest.eu"
+      "https://red1.pladevs.com",
+      "https://red2.pladevs.com",
+      "https://legacy.pladevs.com", 
+      "https://blue.pladevs.com"
     ],
     "brickStorages": [
     ]
