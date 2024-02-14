@@ -49,6 +49,21 @@
       "https://pq5.platest.eu"
     ]
   },
+  "dev.epi": {
+    "anchoringServices": [
+      "https://dev.platesting.eu"
+    ],
+    "brickStorages": [
+    ]
+  },
+  "dev.epi.q1": {
+    "anchoringServices": [
+      "https://dev.platesting.eu"
+    ],
+    "brickStorages": [
+      "https://dev.platesting.eu"
+    ]
+  },
   "preqa.epi.red1": {
     "anchoringServices": [
       "https://red1.pladevs.com"
